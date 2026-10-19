@@ -1,6 +1,6 @@
 # What Drives the Price of a Used Car?
 
-**Notebook:** [Practical_Application_2.ipynb](Practical_Application_2.ipynb)
+**Notebook:** [Practical_Application_2.ipynb](https://github.com/RufaroChirairo/Practical_Application_2.git)
 
 ## Business Problem
 
